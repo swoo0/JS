@@ -14,3 +14,5 @@
 		};
 		
 		toyRobot.showStock();  // toyRobot 객체의 showStock( ) 메서드 실행
+
+
