@@ -22,7 +22,7 @@ a {
 
 /* header */
 header {
-    height: 40px;
+    height: 50px;
     text-align: left;
 }
 #hd {
@@ -30,14 +30,15 @@ header {
     vertical-align: bottom;
 }
 #mainh1 {
+    margin-top: 30px;
     margin-left: 12px;
 }
 .lh {
     color: #353535;
-    font: bold 1.4em sans-serif;
+    font: bold 1.3em sans-serif;
 }
 
-/* nav */
+/* topmenu */
 nav {
     height: 40px;
 }
@@ -50,7 +51,7 @@ nav ul {
 nav li {
     margin: 0px 10px;
     display: inline-block;
-    font: bold 0.8em /20px sans-serif;
+    font: bold 0.9em /20px sans-serif;
 }
 
 /* left sideMenu */
@@ -58,7 +59,6 @@ nav li {
     margin: 40px 0px 0px 3px;
     width: calc(14% - 6px);
     height: 850px;
-    /* background-color:aliceblue; */
     float: left;
 }
 span {
@@ -80,7 +80,7 @@ span {
 #brandMenu li {
     list-style: none;
     margin: 0px 0px 12px 0px;
-    font: bold 0.8em /20px sans-serif;
+    font: bold 0.9em /20px sans-serif;
 }
 
 /* section */
