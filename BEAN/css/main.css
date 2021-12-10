@@ -58,7 +58,7 @@ nav li {
 #Lside {
     margin: 45px 0px 0px 3px;
     width: calc(14% - 6px);
-    height: 1200px;
+    height: 1050px;
     float: left;
 }
 span {
@@ -98,7 +98,7 @@ section {
 iframe {
     position: absolute;
     width: 100%;
-    height: 1000px;
+    height: 1050px;
     border: none;
 }
 

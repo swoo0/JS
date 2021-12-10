@@ -22,8 +22,11 @@ h1 {
 }
 #imbox {
     position: absolute;
-    top: 0%;
+    top: 16px;
     left: 560px;
+}
+.login {
+    top: 30px;
 }
 ul {
     text-align: center;

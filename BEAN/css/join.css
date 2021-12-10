@@ -29,15 +29,20 @@ input {
 .tda input {
     margin: 4px 0px 0px 0px;
 }
+.tda p {
+    color: #757575;
+    font: 1.1em /15px sans-serif;
+}
 .ina1 {
     width: 80px
 }
 .ina2 {
-    width: 300px
+    width: 300px;
 }
 .ina3 {
     width: 300px
 }
+
 .wrap1 {
     margin: 0px 0px 0px 0px;
     padding: 0px;
@@ -83,10 +88,6 @@ label {
 }
 .pt1 {
     display: inline-block;
-}
-.ps {
-    color: #757575;
-    font: 1.1em /15px sans-serif;
 }
 .adbt {
     background-color: white;
